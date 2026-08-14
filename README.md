@@ -112,14 +112,14 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,769 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 15,997 | 🐛 322 | 🌐 Python | 📅 2026-08-12
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,771 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 15,997 | 🐛 323 | 🌐 Python | 📅 2026-08-14
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,603 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,604 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,439 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,125 | 🐛 48 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,415 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,440 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,127 | 🐛 48 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,417 | 🐛 44 | 🌐 Go | 📅 2024-08-20
 * [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,923 | 🐛 59 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,044 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 967 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
@@ -852,7 +852,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 * 4756 - Account was added to security-enabled universal group
 
-* <http://github.com/canix1/ADACLScanner> ⭐ 1,174 | 🐛 11 | 🌐 PowerShell | 📅 2026-07-07
+* <http://github.com/canix1/ADACLScanner> ⭐ 1,175 | 🐛 11 | 🌐 PowerShell | 📅 2026-07-07
 
 ## SIDFiltering
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

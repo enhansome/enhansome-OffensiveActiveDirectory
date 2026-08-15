@@ -112,15 +112,15 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,771 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 15,997 | 🐛 323 | 🌐 Python | 📅 2026-08-14
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,776 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 15,999 | 🐛 320 | 🌐 Python | 📅 2026-08-14
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,604 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,606 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,440 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,127 | 🐛 48 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,417 | 🐛 44 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,923 | 🐛 59 | 🌐 C# | 📅 2026-08-11
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,441 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,128 | 🐛 48 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,418 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,926 | 🐛 59 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,044 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 967 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
@@ -178,7 +178,7 @@ masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RAN
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,930 | 🐛 414 | 🌐 C | 📅 2026-04-23
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,932 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 #### Nmap all "user$.domain\_name" for open ports
 
@@ -1020,7 +1020,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 * [LOLBAS - Living Off The Land Binaries And Scripts](https://github.com/api0cradle/LOLBAS) ⚠️ Archived
 
-* <https://github.com/0xdea/tactical-exploitation> ⭐ 866 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+* <https://github.com/0xdea/tactical-exploitation> ⭐ 867 | 🐛 1 | 🌐 Python | 📅 2026-08-02
 
 ### Attack Kerberos
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

@@ -99,7 +99,7 @@
             "last_commit": "2018-12-10T17:33:15Z",
             "owner": "api0cradle",
             "repo": "LOLBAS",
-            "stars": 1613
+            "stars": 1612
           }
         },
         {
@@ -146,7 +146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:45:40.645Z",
+    "last_updated": "2026-08-18T15:50:21.057Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",
     "enhanced_repository": "enhansome/enhansome-OffensiveActiveDirectory",

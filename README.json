@@ -1,153 +1,254 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Extract machine usernames (user$) from above"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SQL Server Recon"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PowerShell basics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Reigstry Backdoors"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Memory dump LOLBAS"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Download a Program"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Query Sessions"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ASEPRoast"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unconstrained Delegation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "msDS-AllowedToDelegateTo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Trusts"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Mimikatz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Priv Escalation - AD"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "HeidiSQL Portable"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Control Restrictions - What admins control"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Logon Restrictions - Where admins can log-on to"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Enhanced Security Admin Environment"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "LOLBAS - Living Off The Land Binaries And Scripts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "XSLT",
-            "last_commit": "2018-12-10T17:33:15Z",
-            "owner": "api0cradle",
-            "repo": "LOLBAS",
-            "stars": 1612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/0xdea/tactical-exploitation",
+          "title": "Mimikatz",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18496166,
+            "language": "C",
+            "last_commit": "2026-04-17T17:48:27Z",
+            "owner": "gentilkiwi",
+            "repo": "mimikatz",
+            "stars": 21784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impacket",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33997353,
             "language": "Python",
-            "last_commit": "2026-08-02T21:41:48Z",
-            "owner": "0xdea",
-            "repo": "tactical-exploitation",
-            "stars": 869
+            "last_commit": "2026-08-19T08:31:26Z",
+            "owner": "fortra",
+            "repo": "impacket",
+            "stars": 16012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerView",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4456049,
+            "language": "PowerShell",
+            "last_commit": "2020-08-17T23:19:49Z",
+            "owner": "PowerShellMafia",
+            "repo": "PowerSploit",
+            "stars": 13090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bloodhound",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56452110,
+            "language": "PowerShell",
+            "last_commit": "2026-03-02T18:29:31Z",
+            "owner": "SpecterOps",
+            "repo": "BloodHound-Legacy",
+            "stars": 10601
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrackMapExec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 40718289,
+            "language": "Python",
+            "last_commit": "2023-12-06T17:09:42Z",
+            "owner": "byt3bl33d3r",
+            "repo": "CrackMapExec",
+            "stars": 9156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evil-WinRM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189010173,
+            "language": "Ruby",
+            "last_commit": "2026-06-02T15:23:03Z",
+            "owner": "Hackplayers",
+            "repo": "evil-winrm",
+            "stars": 5441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rubeus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150035938,
+            "language": "C#",
+            "last_commit": "2026-05-21T11:08:54Z",
+            "owner": "GhostPack",
+            "repo": "Rubeus",
+            "stars": 5134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kerbrute",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168977645,
+            "language": "Go",
+            "last_commit": "2024-08-20T10:56:06Z",
+            "owner": "ropnop",
+            "repo": "kerbrute",
+            "stars": 3419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PingCastle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146924413,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:36:31Z",
+            "owner": "netwrix",
+            "repo": "pingcastle",
+            "stars": 2929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ADModule - Nikhil Mittal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155557312,
+            "language": "PowerShell",
+            "last_commit": "2019-10-03T03:45:04Z",
+            "owner": "samratashok",
+            "repo": "ADModule",
+            "stars": 1046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AD Recon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161905307,
+            "language": "PowerShell",
+            "last_commit": "2024-10-15T03:41:29Z",
+            "owner": "adrecon",
+            "repo": "ADRecon",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "To audit GPO, use Grouper2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156655568,
+            "language": null,
+            "last_commit": "2022-03-25T11:30:26Z",
+            "owner": "l0ss",
+            "repo": "Grouper2",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetCease",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101176112,
+            "language": "PowerShell",
+            "last_commit": "2021-06-09T12:48:51Z",
+            "owner": "p0w3rsh3ll",
+            "repo": "NetCease",
+            "stars": 68
           }
         }
       ],
-      "title": "Misc Tools/Scripts"
+      "title": "Tools"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Attack Kerberos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Persistence"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "LLMNR/NetBios-NS spoofing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPO"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Privilege Escalation"
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LOLBAS - Living Off The Land Binaries And Scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 130043068,
+                "language": "XSLT",
+                "last_commit": "2018-12-10T17:33:15Z",
+                "owner": "api0cradle",
+                "repo": "LOLBAS",
+                "stars": 1612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/0xdea/tactical-exploitation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103748059,
+                "language": "Python",
+                "last_commit": "2026-08-02T21:41:48Z",
+                "owner": "0xdea",
+                "repo": "tactical-exploitation",
+                "stars": 869
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc Tools/Scripts"
+        }
+      ],
+      "title": "References"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:50:21.057Z",
+    "last_updated": "2026-08-19T12:13:27.893Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
+    "original_repository_id": 336318372,
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",
     "enhanced_repository": "enhansome/enhansome-OffensiveActiveDirectory",
     "enhanced_repository_description": null,

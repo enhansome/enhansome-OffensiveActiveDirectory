@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21784
+            "stars": 21783
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 33997353,
             "language": "Python",
-            "last_commit": "2026-08-19T08:31:26Z",
+            "last_commit": "2026-08-19T12:52:39Z",
             "owner": "fortra",
             "repo": "impacket",
             "stars": 16012
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:27.893Z",
+    "last_updated": "2026-08-19T15:49:52.326Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
     "original_repository_id": 336318372,
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",

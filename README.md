@@ -112,8 +112,8 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,784 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,012 | 🐛 313 | 🌐 Python | 📅 2026-08-19
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,783 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,012 | 🐛 312 | 🌐 Python | 📅 2026-08-19
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,601 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
@@ -178,7 +178,7 @@ masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RAN
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,936 | 🐛 414 | 🌐 C | 📅 2026-04-23
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,937 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 #### Nmap all "user$.domain\_name" for open ports
 

@@ -112,17 +112,17 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,783 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,012 | 🐛 312 | 🌐 Python | 📅 2026-08-19
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,781 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,020 | 🐛 312 | 🌐 Python | 📅 2026-08-19
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,601 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,441 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,134 | 🐛 48 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,419 | 🐛 44 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,929 | 🐛 59 | 🌐 C# | 📅 2026-08-11
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,445 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,135 | 🐛 48 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,424 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,930 | 🐛 59 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,046 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
-* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 968 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
+* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 969 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 68 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
 * [ADModule Microsoft Reference](https://docs.microsoft.com/en-us/powershell/module/addsadministration/)
@@ -178,7 +178,7 @@ masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RAN
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,937 | 🐛 414 | 🌐 C | 📅 2026-04-23
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,939 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 #### Nmap all "user$.domain\_name" for open ports
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

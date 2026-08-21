@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21781
+            "stars": 21785
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T12:52:39Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16020
+            "stars": 16021
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2020-08-17T23:19:49Z",
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13090
+            "stars": 13088
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10601
+            "stars": 10602
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-02T15:23:03Z",
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5445
+            "stars": 5446
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-08-20T10:56:06Z",
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3424
+            "stars": 3425
           }
         },
         {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-08-02T21:41:48Z",
                 "owner": "0xdea",
                 "repo": "tactical-exploitation",
-                "stars": 869
+                "stars": 868
               }
             }
           ],
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:51:54.026Z",
+    "last_updated": "2026-08-21T15:52:01.141Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
     "original_repository_id": 336318372,
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",

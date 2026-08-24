@@ -112,15 +112,15 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,792 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,026 | 🐛 312 | 🌐 Python | 📅 2026-08-19
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,796 | 🐛 196 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,029 | 🐛 312 | 🌐 Python | 📅 2026-08-19
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,603 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,605 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,445 | 🐛 0 | 🌐 Ruby | 📅 2026-06-02
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,138 | 🐛 48 | 🌐 C# | 📅 2026-05-21
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,141 | 🐛 48 | 🌐 C# | 📅 2026-05-21
 * [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,428 | 🐛 44 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,934 | 🐛 59 | 🌐 C# | 📅 2026-08-11
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,935 | 🐛 59 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,046 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 970 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
@@ -176,9 +176,9 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,944 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 25,943 | 🐛 414 | 🌐 C | 📅 2026-04-23
+* Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
 #### Nmap all "user$.domain\_name" for open ports
 
@@ -786,8 +786,8 @@ REG ADD HKLM\System\CurrentControlSet\Control\Lsa\ /v DsrmAdminLogonBehavior /t 
 
 # ACE Format
 
-* ace\_type;ace\_flags;rights;object\_guid;inherit\_object\_guid;account\_sid
 * [RACEToolkit](https://github.com/samratashok/RACE) ⭐ 244 | 🐛 2 | 🌐 PowerShell | 📅 2023-05-05
+* ace\_type;ace\_flags;rights;object\_guid;inherit\_object\_guid;account\_sid
 
 # Protection
 
@@ -842,6 +842,8 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 ## ACL Attacks
 
+* <http://github.com/canix1/ADACLScanner> ⭐ 1,175 | 🐛 11 | 🌐 PowerShell | 📅 2026-07-07
+
 * 4662 - An operation was performed on an object
 
 * 5136 - A directory service object was modified
@@ -851,8 +853,6 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 * 4780 - The ACL was set on accounts which are members of administrators groups
 
 * 4756 - Account was added to security-enabled universal group
-
-* <http://github.com/canix1/ADACLScanner> ⭐ 1,175 | 🐛 11 | 🌐 PowerShell | 📅 2026-07-07
 
 ## SIDFiltering
 
@@ -982,11 +982,11 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 #### BloodHound
 
+* [Automate BloodHound](https://github.com/mdsecactivebreach/ANGRYPUPPY) ⭐ 29 | 🐛 0 | 🌐 PowerShell | 📅 2017-07-31
+
 * [Automating](https://byt3bl33d3r.github.io/automating-the-empire-with-the-death-star-getting-domain-admin-with-a-push-of-a-button.html)
 
 * [NTLM Relaying](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html)
-
-* [Automate BloodHound](https://github.com/mdsecactivebreach/ANGRYPUPPY) ⭐ 29 | 🐛 0 | 🌐 PowerShell | 📅 2017-07-31
 
 * [Extending](https://speakerdeck.com/porterhau5/extending-bloodhound-for-red-teamers)
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

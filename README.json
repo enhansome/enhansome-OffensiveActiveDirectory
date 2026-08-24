@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21792
+            "stars": 21796
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T12:52:39Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16026
+            "stars": 16029
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2020-08-17T23:19:49Z",
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13087
+            "stars": 13086
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-03-02T18:29:31Z",
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10603
+            "stars": 10605
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-21T11:08:54Z",
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5138
+            "stars": 5141
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-11T17:36:31Z",
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2934
+            "stars": 2935
           }
         },
         {
@@ -207,6 +207,134 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/skorov/ridrelay",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129558061,
+                    "language": "Python",
+                    "last_commit": "2020-05-20T03:35:32Z",
+                    "owner": "skorov",
+                    "repo": "ridrelay",
+                    "stars": 399
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Enumerate usernames"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Reference: https://github.com/robertdavidgraham/masscan",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11715753,
+                    "language": "C",
+                    "last_commit": "2026-04-23T20:34:38Z",
+                    "owner": "robertdavidgraham",
+                    "repo": "masscan",
+                    "stars": 25944
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Masscan all \"user$.domain_name\" for open ports"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Domain Recon"
+        }
+      ],
+      "title": "Domain Recon"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RACEToolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198853198,
+            "language": "PowerShell",
+            "last_commit": "2023-05-05T15:33:54Z",
+            "owner": "samratashok",
+            "repo": "RACE",
+            "stars": 244
+          }
+        }
+      ],
+      "title": "ACE Format"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "http://github.com/canix1/ADACLScanner",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87426909,
+                "language": "PowerShell",
+                "last_commit": "2026-07-07T22:34:47Z",
+                "owner": "canix1",
+                "repo": "ADACLScanner",
+                "stars": 1175
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ACL Attacks"
+        }
+      ],
+      "title": "Protection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Automate BloodHound",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99271850,
+                "language": "PowerShell",
+                "last_commit": "2017-07-31T13:41:39Z",
+                "owner": "mdsecactivebreach",
+                "repo": "ANGRYPUPPY",
+                "stars": 29
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BloodHound"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "LOLBAS - Living Off The Land Binaries And Scripts",
               "description": null,
@@ -246,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:41:17.642Z",
+    "last_updated": "2026-08-24T14:43:40.764Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
     "original_repository_id": 336318372,
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",

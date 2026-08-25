@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21797
+            "stars": 21798
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T21:24:31Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16031
+            "stars": 16034
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-21T11:08:54Z",
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5141
+            "stars": 5142
           }
         },
         {
@@ -242,7 +242,7 @@
                     "last_commit": "2026-04-23T20:34:38Z",
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25950
+                    "stars": 25951
                   }
                 }
               ],
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:55.576Z",
+    "last_updated": "2026-08-25T16:03:56.836Z",
     "original_repository": "thecybermafia/OffensiveActiveDirectory",
     "original_repository_id": 336318372,
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",

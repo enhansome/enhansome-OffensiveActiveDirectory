@@ -15,7 +15,7 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21800
+            "stars": 21799
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 33997353,
             "language": "Python",
-            "last_commit": "2026-08-24T21:24:31Z",
+            "last_commit": "2026-08-27T17:39:55Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16040
+            "stars": 16042
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2020-08-17T23:19:49Z",
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13085
+            "stars": 13086
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-12-06T17:09:42Z",
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159
+            "stars": 9158
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-02T15:23:03Z",
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5449
+            "stars": 5451
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-08-20T10:56:06Z",
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3429
+            "stars": 3430
           }
         },
         {
@@ -242,7 +242,7 @@
                     "last_commit": "2026-04-23T20:34:38Z",
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25956
+                    "stars": 25958
                   }
                 }
               ],
@@ -374,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:05.766Z",
+    "last_updated": "2026-08-28T00:26:44.639Z",
     "original_repository_info": {
       "archived": false,
       "id": 336318372,

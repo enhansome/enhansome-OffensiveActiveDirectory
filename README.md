@@ -113,7 +113,7 @@ This document is designed to be a used in a red team assesment and contains comm
 # Tools
 
 * [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,800 | 🐛 196 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,048 | 🐛 319 | 🌐 Python | 📅 2026-08-28
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,049 | 🐛 319 | 🌐 Python | 📅 2026-08-28
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,606 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived

@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A little tool to play with Windows security",
+            "homepage": "http://blog.gentilkiwi.com/mimikatz",
             "id": 18496166,
             "language": "C",
+            "license": null,
             "last_commit": "2026-04-17T17:48:27Z",
+            "open_issues": 196,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21800
+            "stars": 21800,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -26,12 +31,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Impacket is a collection of Python classes for working with network protocols.",
+            "homepage": "https://www.coresecurity.com",
             "id": 33997353,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:35:27Z",
+            "open_issues": 319,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16048
+            "stars": 16049,
+            "topics": [
+              "dcerpc",
+              "dcom",
+              "impacket",
+              "kerberos",
+              "msrpc",
+              "netbios",
+              "pass-the-hash",
+              "python",
+              "smb",
+              "wmi"
+            ]
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
+            "homepage": null,
             "id": 4456049,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2020-08-17T23:19:49Z",
+            "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13086
+            "stars": 13086,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Six Degrees of Domain Admin",
+            "homepage": null,
             "id": 56452110,
             "language": "PowerShell",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-02T18:29:31Z",
+            "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10606
+            "stars": 10606,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -74,12 +105,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A swiss army knife for pentesting networks",
+            "homepage": null,
             "id": 40718289,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-12-06T17:09:42Z",
+            "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159
+            "stars": 9159,
+            "topics": [
+              "active-directory",
+              "networks",
+              "pentesting",
+              "powershell",
+              "python",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -90,12 +133,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate WinRM shell for hacking/pentesting",
+            "homepage": null,
             "id": 189010173,
             "language": "Ruby",
+            "license": "LGPL-3.0",
             "last_commit": "2026-06-02T15:23:03Z",
+            "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5453
+            "stars": 5453,
+            "topics": [
+              "docker",
+              "evil-winrm",
+              "hacking",
+              "kerberos",
+              "pass-the-hash",
+              "pentest",
+              "pentesting",
+              "pentesting-windows",
+              "powershell",
+              "psrp",
+              "remote-management",
+              "ruby",
+              "shell",
+              "win-rm",
+              "winrm"
+            ]
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -106,12 +170,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trying to tame the three-headed dog.",
+            "homepage": null,
             "id": 150035938,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-21T11:08:54Z",
+            "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5148
+            "stars": 5148,
+            "topics": [
+              "kerberos"
+            ]
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -122,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to perform Kerberos pre-auth bruteforcing",
+            "homepage": null,
             "id": 168977645,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-20T10:56:06Z",
+            "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3431
+            "stars": 3431,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -138,12 +214,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PingCastle - Get Active Directory Security at 80% in 20% of the time",
+            "homepage": "https://www.pingcastle.com",
             "id": 146924413,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T17:36:31Z",
+            "open_issues": 59,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2938
+            "stars": 2938,
+            "topics": [
+              "active-directory",
+              "ciso",
+              "dod",
+              "hipaa",
+              "mimikatz",
+              "nist",
+              "ping-castle",
+              "pingcastle",
+              "reporting-tool",
+              "security",
+              "sox",
+              "stig"
+            ]
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -154,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft signed ActiveDirectory PowerShell module",
+            "homepage": null,
             "id": 155557312,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2019-10-03T03:45:04Z",
+            "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1047
+            "stars": 1047,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -170,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment. ",
+            "homepage": null,
             "id": 161905307,
             "language": "PowerShell",
+            "license": "AGPL-3.0",
             "last_commit": "2024-10-15T03:41:29Z",
+            "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 972
+            "stars": 972,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -186,12 +290,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find vulnerabilities in AD Group Policy",
+            "homepage": null,
             "id": 156655568,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-25T11:30:26Z",
+            "open_issues": 0,
             "owner": "l0ss",
             "repo": "Grouper2",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         },
@@ -202,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 101176112,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-09T12:48:51Z",
+            "open_issues": 1,
             "owner": "p0w3rsh3ll",
             "repo": "NetCease",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         }
@@ -228,12 +342,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enumerate usernames on a domain where you have no creds by using SMB Relay with low priv.",
+                    "homepage": null,
                     "id": 129558061,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-05-20T03:35:32Z",
+                    "open_issues": 0,
                     "owner": "skorov",
                     "repo": "ridrelay",
-                    "stars": 399
+                    "stars": 399,
+                    "topics": [
+                      "activedirectory",
+                      "impacket",
+                      "pentesting",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
                 }
@@ -251,12 +375,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+                    "homepage": null,
                     "id": 11715753,
                     "language": "C",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-04-23T20:34:38Z",
+                    "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25959
+                    "stars": 25959,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
                 }
@@ -283,12 +412,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RACE is a PowerShell module for executing ACL attacks against Windows targets.",
+            "homepage": null,
             "id": 198853198,
             "language": "PowerShell",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-05T15:33:54Z",
+            "open_issues": 2,
             "owner": "samratashok",
             "repo": "RACE",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
         }
@@ -307,12 +441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory",
+                "homepage": null,
                 "id": 87426909,
                 "language": "PowerShell",
+                "license": "MS-PL",
                 "last_commit": "2026-07-07T22:34:47Z",
+                "open_issues": 11,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1175
+                "stars": 1175,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
             }
@@ -336,12 +475,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bloodhound Attack Path Automation in CobaltStrike",
+                "homepage": null,
                 "id": 99271850,
                 "language": "PowerShell",
+                "license": "NOASSERTION",
                 "last_commit": "2017-07-31T13:41:39Z",
+                "open_issues": 0,
                 "owner": "mdsecactivebreach",
                 "repo": "ANGRYPUPPY",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
             }
@@ -359,12 +503,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)",
+                "homepage": null,
                 "id": 130043068,
                 "language": "XSLT",
+                "license": null,
                 "last_commit": "2018-12-10T17:33:15Z",
+                "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1613
+                "stars": 1613,
+                "topics": [
+                  "blueteam",
+                  "dfir",
+                  "living-off-the-land",
+                  "lolbins",
+                  "lolscripts",
+                  "purpleteam",
+                  "redteam"
+                ]
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
             },
@@ -375,12 +532,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern tactical exploitation toolkit.",
+                "homepage": "https://0xdeadbeef.info",
                 "id": 103748059,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-02T21:41:48Z",
+                "open_issues": 1,
                 "owner": "0xdea",
                 "repo": "tactical-exploitation",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "active-directory",
+                  "brute-force",
+                  "information-gathering",
+                  "metasploit-framework",
+                  "penetration-testing"
+                ]
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
             }
@@ -394,15 +562,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:02:00.658Z",
+    "last_updated": "2026-08-29T05:00:55.762Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",
+      "homepage": null,
       "id": 336318372,
       "language": null,
+      "license": null,
       "last_commit": "2021-02-05T16:48:49Z",
+      "open_issues": 0,
       "owner": "thecybermafia",
       "repo": "OffensiveActiveDirectory",
-      "stars": 93
+      "stars": 93,
+      "topics": [
+        "active-directory",
+        "activedirectory",
+        "ad",
+        "awesome",
+        "awesome-activedirectory",
+        "awesome-list",
+        "awesome-lists",
+        "awesomeactivedirectory",
+        "awesomead",
+        "commands-cheatsheet",
+        "hacking-cheasheet",
+        "lateral-movement",
+        "microsoft-sql-server",
+        "offensive-security",
+        "offensivead",
+        "persistence",
+        "powershell",
+        "privesc",
+        "redteam",
+        "redteaming"
+      ]
     },
     "original_repository_sha": "2c15d1d01a8b79d57ac074c52cec32c1fc73b135",
     "enhanced_repository": "enhansome/enhansome-OffensiveActiveDirectory",

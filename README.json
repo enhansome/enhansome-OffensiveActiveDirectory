@@ -15,8 +15,9 @@
             "last_commit": "2026-04-17T17:48:27Z",
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21799
-          }
+            "stars": 21800
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 33997353,
             "language": "Python",
-            "last_commit": "2026-08-27T17:39:55Z",
+            "last_commit": "2026-08-28T20:35:27Z",
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16042
-          }
+            "stars": 16048
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
             "stars": 13086
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
             "stars": 10606
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2023-12-06T17:09:42Z",
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9158
-          }
+            "stars": 9159
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-06-02T15:23:03Z",
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5451
-          }
+            "stars": 5453
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-05-21T11:08:54Z",
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5147
-          }
+            "stars": 5148
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2024-08-20T10:56:06Z",
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3430
-          }
+            "stars": 3431
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "netwrix",
             "repo": "pingcastle",
             "stars": 2938
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "samratashok",
             "repo": "ADModule",
             "stars": 1047
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "adrecon",
             "repo": "ADRecon",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "l0ss",
             "repo": "Grouper2",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "p0w3rsh3ll",
             "repo": "NetCease",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         }
       ],
       "title": "Tools"
@@ -221,7 +234,8 @@
                     "owner": "skorov",
                     "repo": "ridrelay",
                     "stars": 399
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:02:00.658Z"
                 }
               ],
               "description": null,
@@ -242,8 +256,9 @@
                     "last_commit": "2026-04-23T20:34:38Z",
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25958
-                  }
+                    "stars": 25959
+                  },
+                  "first_seen": "2026-08-29T00:02:00.658Z"
                 }
               ],
               "description": null,
@@ -274,7 +289,8 @@
             "owner": "samratashok",
             "repo": "RACE",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-29T00:02:00.658Z"
         }
       ],
       "title": "ACE Format"
@@ -297,7 +313,8 @@
                 "owner": "canix1",
                 "repo": "ADACLScanner",
                 "stars": 1175
-              }
+              },
+              "first_seen": "2026-08-29T00:02:00.658Z"
             }
           ],
           "description": null,
@@ -325,7 +342,8 @@
                 "owner": "mdsecactivebreach",
                 "repo": "ANGRYPUPPY",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-29T00:02:00.658Z"
             }
           ],
           "description": null,
@@ -347,7 +365,8 @@
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
                 "stars": 1613
-              }
+              },
+              "first_seen": "2026-08-29T00:02:00.658Z"
             },
             {
               "node_type": "item",
@@ -362,7 +381,8 @@
                 "owner": "0xdea",
                 "repo": "tactical-exploitation",
                 "stars": 868
-              }
+              },
+              "first_seen": "2026-08-29T00:02:00.658Z"
             }
           ],
           "description": null,
@@ -374,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:26:44.639Z",
+    "last_updated": "2026-08-29T00:02:00.658Z",
     "original_repository_info": {
       "archived": false,
       "id": 336318372,

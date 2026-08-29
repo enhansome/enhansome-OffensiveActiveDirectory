@@ -139,7 +139,7 @@
             "language": "Ruby",
             "license": "LGPL-3.0",
             "last_commit": "2026-06-02T15:23:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
             "stars": 5453,
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25959,
+                    "stars": 25961,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:55.762Z",
+    "last_updated": "2026-08-29T18:37:30.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

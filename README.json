@@ -16,10 +16,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-04-17T17:48:27Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21826,
+            "stars": 21829,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -36,11 +36,11 @@
             "id": 33997353,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:15:12Z",
-            "open_issues": 315,
+            "last_commit": "2026-09-08T15:44:36Z",
+            "open_issues": 316,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16072,
+            "stars": 16077,
             "topics": [
               "dcerpc",
               "dcom",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10614,
+            "stars": 10613,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5483,
+            "stars": 5485,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5159,
+            "stars": 5163,
             "topics": [
               "kerberos"
             ]
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25989,
+                    "stars": 25993,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 11,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1175,
+                "stars": 1176,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1611,
+                "stars": 1612,
                 "topics": [
                   "blueteam",
                   "dfir",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:13:54.469Z",
+    "last_updated": "2026-09-08T18:47:05.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

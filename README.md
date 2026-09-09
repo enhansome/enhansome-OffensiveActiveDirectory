@@ -112,16 +112,16 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,829 | 🐛 197 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,077 | 🐛 316 | 🌐 Python | 📅 2026-09-08
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,830 | 🐛 197 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,079 | 🐛 310 | 🌐 Python | 📅 2026-09-09
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,613 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,615 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,485 | 🐛 0 | 🌐 Ruby | 📅 2026-09-04
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,489 | 🐛 0 | 🌐 Ruby | 📅 2026-09-04
 * [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,163 | 🐛 48 | 🌐 C# | 📅 2026-05-21
 * [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,443 | 🐛 44 | 🌐 Go | 📅 2024-08-20
 * [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,941 | 🐛 60 | 🌐 C# | 📅 2026-08-11
-* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,047 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
+* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,048 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 980 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 68 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

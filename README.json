@@ -19,7 +19,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21832,
+            "stars": 21833,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -36,11 +36,11 @@
             "id": 33997353,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T06:19:15Z",
-            "open_issues": 313,
+            "last_commit": "2026-09-10T19:31:56Z",
+            "open_issues": 315,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16083,
+            "stars": 16084,
             "topics": [
               "dcerpc",
               "dcom",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5490,
+            "stars": 5491,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5163,
+            "stars": 5164,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3443,
+            "stars": 3444,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1048,
+            "stars": 1051,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 980,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 25996,
+                    "stars": 26000,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1612,
+                "stars": 1613,
                 "topics": [
                   "blueteam",
                   "dfir",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:32:15.663Z",
+    "last_updated": "2026-09-11T18:38:30.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

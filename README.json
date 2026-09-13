@@ -19,7 +19,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21835,
+            "stars": 21839,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 315,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16084,
+            "stars": 16088,
             "topics": [
               "dcerpc",
               "dcom",
@@ -114,7 +114,7 @@
             "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9165,
+            "stars": 9164,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5495,
+            "stars": 5501,
             "topics": [
               "docker",
               "evil-winrm",
@@ -223,7 +223,7 @@
             "open_issues": 60,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2943,
+            "stars": 2944,
             "topics": [
               "active-directory",
               "ciso",
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 980,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26002,
+                    "stars": 26006,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:45:49.082Z",
+    "last_updated": "2026-09-13T18:14:32.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

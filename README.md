@@ -112,17 +112,17 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,835 | 🐛 197 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,084 | 🐛 315 | 🌐 Python | 📅 2026-09-10
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,839 | 🐛 197 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,088 | 🐛 315 | 🌐 Python | 📅 2026-09-10
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,616 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,495 | 🐛 0 | 🌐 Ruby | 📅 2026-09-04
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,501 | 🐛 0 | 🌐 Ruby | 📅 2026-09-04
 * [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,165 | 🐛 48 | 🌐 C# | 📅 2026-05-21
 * [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,444 | 🐛 44 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,943 | 🐛 60 | 🌐 C# | 📅 2026-08-11
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,944 | 🐛 60 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,051 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
-* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 980 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
+* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 979 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 68 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
 * [ADModule Microsoft Reference](https://docs.microsoft.com/en-us/powershell/module/addsadministration/)
@@ -176,7 +176,7 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,002 | 🐛 414 | 🌐 C | 📅 2026-04-23
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,006 | 🐛 414 | 🌐 C | 📅 2026-04-23
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

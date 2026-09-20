@@ -19,7 +19,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21852,
+            "stars": 21854,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 324,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16099,
+            "stars": 16105,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13085,
+            "stars": 13086,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3450,
+            "stars": 3451,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -223,7 +223,7 @@
             "open_issues": 60,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2948,
+            "stars": 2950,
             "topics": [
               "active-directory",
               "ciso",
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26025,
+                    "stars": 26024,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 11,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:06:03.915Z",
+    "last_updated": "2026-09-20T18:13:07.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

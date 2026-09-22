@@ -19,7 +19,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21854,
+            "stars": 21856,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 325,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16108,
+            "stars": 16110,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13084,
+            "stars": 13083,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10614,
+            "stars": 10612,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 67,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9161,
+            "stars": 9163,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5517,
+            "stars": 5516,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5174,
+            "stars": 5173,
             "topics": [
               "kerberos"
             ]
@@ -220,10 +220,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-08-11T17:36:31Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2953,
+            "stars": 2954,
             "topics": [
               "active-directory",
               "ciso",
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26027,
+                    "stars": 26030,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 11,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1178,
+                "stars": 1177,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:00:56.755Z",
+    "last_updated": "2026-09-22T18:59:01.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

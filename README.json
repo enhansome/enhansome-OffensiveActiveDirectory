@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9163,
+            "stars": 9164,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5521,
+            "stars": 5524,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5176,
+            "stars": 5178,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3452,
+            "stars": 3454,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 415,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26042,
+                    "stars": 26041,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T18:38:09.171Z",
+    "last_updated": "2026-09-27T19:01:57.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

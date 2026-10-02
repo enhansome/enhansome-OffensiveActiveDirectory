@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21878,
+            "stars": 21879,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T15:25:12Z",
-            "open_issues": 314,
+            "open_issues": 316,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16135,
+            "stars": 16140,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13078,
+            "stars": 13076,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10609,
+            "stars": 10607,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9160,
+            "stars": 9159,
             "topics": [
               "active-directory",
               "networks",
@@ -138,11 +138,11 @@
             "id": 189010173,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-01T07:11:15Z",
+            "last_commit": "2026-10-02T15:41:24Z",
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5534,
+            "stars": 5535,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 48,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5183,
+            "stars": 5184,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 415,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26055,
+                    "stars": 26056,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -541,7 +541,7 @@
                 "open_issues": 1,
                 "owner": "0xdea",
                 "repo": "tactical-exploitation",
-                "stars": 867,
+                "stars": 865,
                 "topics": [
                   "active-directory",
                   "brute-force",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:22:44.943Z",
+    "last_updated": "2026-10-02T19:58:48.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

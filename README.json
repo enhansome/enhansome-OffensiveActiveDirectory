@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Mimikatz",
-          "description": null,
+          "description": "gentilkiwi/mimikatz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Impacket",
-          "description": null,
+          "description": "fortra/impacket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -40,7 +40,7 @@
             "open_issues": 316,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16140,
+            "stars": 16142,
             "topics": [
               "dcerpc",
               "dcom",
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "PowerView",
-          "description": null,
+          "description": "PowerShellMafia/PowerSploit",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "Bloodhound",
-          "description": null,
+          "description": "SpecterOps/BloodHound-Legacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "CrackMapExec",
-          "description": null,
+          "description": "byt3bl33d3r/CrackMapExec",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159,
+            "stars": 9158,
             "topics": [
               "active-directory",
               "networks",
@@ -129,7 +129,7 @@
         {
           "node_type": "item",
           "title": "Evil-WinRM",
-          "description": null,
+          "description": "Hackplayers/evil-winrm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -166,7 +166,7 @@
         {
           "node_type": "item",
           "title": "Rubeus",
-          "description": null,
+          "description": "GhostPack/Rubeus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,7 +189,7 @@
         {
           "node_type": "item",
           "title": "Kerbrute",
-          "description": null,
+          "description": "ropnop/kerbrute",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3460,
+            "stars": 3461,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "PingCastle",
-          "description": null,
+          "description": "netwrix/pingcastle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "ADModule - Nikhil Mittal",
-          "description": null,
+          "description": "samratashok/ADModule",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -265,7 +265,7 @@
         {
           "node_type": "item",
           "title": "AD Recon",
-          "description": null,
+          "description": "adrecon/ADRecon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "To audit GPO, use Grouper2",
-          "description": null,
+          "description": "l0ss/Grouper2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "NetCease",
-          "description": null,
+          "description": "p0w3rsh3ll/NetCease",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -338,7 +338,7 @@
                 {
                   "node_type": "item",
                   "title": "skorov/ridrelay",
-                  "description": null,
+                  "description": "skorov/ridrelay",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -371,7 +371,7 @@
                 {
                   "node_type": "item",
                   "title": "Reference: https://github.com/robertdavidgraham/masscan",
-                  "description": null,
+                  "description": "robertdavidgraham/masscan",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -384,7 +384,7 @@
                     "open_issues": 415,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26056,
+                    "stars": 26059,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -408,7 +408,7 @@
         {
           "node_type": "item",
           "title": "RACEToolkit",
-          "description": null,
+          "description": "samratashok/RACE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -437,7 +437,7 @@
             {
               "node_type": "item",
               "title": "canix1/ADACLScanner",
-              "description": null,
+              "description": "canix1/ADACLScanner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -471,7 +471,7 @@
             {
               "node_type": "item",
               "title": "Automate BloodHound",
-              "description": null,
+              "description": "mdsecactivebreach/ANGRYPUPPY",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -499,7 +499,7 @@
             {
               "node_type": "item",
               "title": "LOLBAS - Living Off The Land Binaries And Scripts",
-              "description": null,
+              "description": "api0cradle/LOLBAS",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -528,7 +528,7 @@
             {
               "node_type": "item",
               "title": "0xdea/tactical-exploitation",
-              "description": null,
+              "description": "0xdea/tactical-exploitation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:58:48.375Z",
+    "last_updated": "2026-10-03T04:32:44.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

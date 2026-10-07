@@ -112,15 +112,15 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,888 | 🐛 198 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,153 | 🐛 320 | 🌐 Python | 📅 2026-10-01
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,889 | 🐛 198 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,156 | 🐛 320 | 🌐 Python | 📅 2026-10-01
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,611 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,609 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,538 | 🐛 0 | 🌐 Ruby | 📅 2026-10-02
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,189 | 🐛 48 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,464 | 🐛 44 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,961 | 🐛 61 | 🌐 C# | 📅 2026-08-11
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,539 | 🐛 0 | 🌐 Ruby | 📅 2026-10-02
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,189 | 🐛 49 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,465 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,962 | 🐛 61 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,049 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 980 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

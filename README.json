@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21894,
+            "stars": 21898,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,7 +37,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T15:25:12Z",
-            "open_issues": 323,
+            "open_issues": 325,
             "owner": "fortra",
             "repo": "impacket",
             "stars": 16164,
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3468,
+            "stars": 3471,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 981,
+            "stars": 982,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T20:08:48.661Z",
+    "last_updated": "2026-10-10T19:20:23.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

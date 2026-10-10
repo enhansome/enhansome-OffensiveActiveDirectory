@@ -112,17 +112,17 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,894 | 🐛 198 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,164 | 🐛 323 | 🌐 Python | 📅 2026-10-01
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,898 | 🐛 198 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,164 | 🐛 325 | 🌐 Python | 📅 2026-10-01
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,610 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,542 | 🐛 0 | 🌐 Ruby | 📅 2026-10-02
 * [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,193 | 🐛 49 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,468 | 🐛 44 | 🌐 Go | 📅 2024-08-20
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,471 | 🐛 44 | 🌐 Go | 📅 2024-08-20
 * [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,963 | 🐛 61 | 🌐 C# | 📅 2026-08-11
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,050 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
-* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 981 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
+* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 982 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 68 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
 * [ADModule Microsoft Reference](https://docs.microsoft.com/en-us/powershell/module/addsadministration/)
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

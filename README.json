@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21898,
+            "stars": 21899,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 325,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16164,
+            "stars": 16163,
             "topics": [
               "dcerpc",
               "dcom",
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9157,
+            "stars": 9156,
             "topics": [
               "active-directory",
               "networks",
@@ -138,11 +138,11 @@
             "id": 189010173,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-02T15:41:24Z",
+            "last_commit": "2026-10-11T12:33:02Z",
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5542,
+            "stars": 5544,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 49,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5193,
+            "stars": 5192,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3471,
+            "stars": 3472,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26066,
+                    "stars": 26068,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 10,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:20:23.075Z",
+    "last_updated": "2026-10-11T19:35:42.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

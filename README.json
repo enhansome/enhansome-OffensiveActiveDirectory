@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21904,
+            "stars": 21906,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -36,11 +36,11 @@
             "id": 33997353,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T15:25:12Z",
-            "open_issues": 325,
+            "last_commit": "2026-10-14T14:25:40Z",
+            "open_issues": 323,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16168,
+            "stars": 16169,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13072,
+            "stars": 13073,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9158,
+            "stars": 9159,
             "topics": [
               "active-directory",
               "networks",
@@ -138,11 +138,11 @@
             "id": 189010173,
             "language": "Ruby",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-11T12:33:02Z",
+            "last_commit": "2026-10-14T12:44:55Z",
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5546,
+            "stars": 5549,
             "topics": [
               "docker",
               "evil-winrm",
@@ -219,11 +219,11 @@
             "id": 146924413,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T20:01:43Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-13T21:00:45Z",
+            "open_issues": 61,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2968,
+            "stars": 2973,
             "topics": [
               "active-directory",
               "ciso",
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1050,
+            "stars": 1051,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 985,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -351,7 +351,7 @@
                     "open_issues": 0,
                     "owner": "skorov",
                     "repo": "ridrelay",
-                    "stars": 399,
+                    "stars": 400,
                     "topics": [
                       "activedirectory",
                       "impacket",
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26075,
+                    "stars": 26079,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:43:23.333Z",
+    "last_updated": "2026-10-14T19:28:03.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

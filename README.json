@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21913,
+            "stars": 21914,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-15T12:58:10Z",
-            "open_issues": 321,
+            "open_issues": 326,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16175,
+            "stars": 16173,
             "topics": [
               "dcerpc",
               "dcom",
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9159,
+            "stars": 9158,
             "topics": [
               "active-directory",
               "networks",
@@ -223,7 +223,7 @@
             "open_issues": 62,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2978,
+            "stars": 2981,
             "topics": [
               "active-directory",
               "ciso",
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 987,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26077,
+                    "stars": 26078,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -512,7 +512,7 @@
                 "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1615,
+                "stars": 1616,
                 "topics": [
                   "blueteam",
                   "dfir",
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:50:12.297Z",
+    "last_updated": "2026-10-17T17:52:26.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

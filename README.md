@@ -112,16 +112,16 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,916 | 🐛 198 | 🌐 C | 📅 2026-04-17
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,173 | 🐛 326 | 🌐 Python | 📅 2026-10-15
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,920 | 🐛 198 | 🌐 C | 📅 2026-04-17
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,182 | 🐛 326 | 🌐 Python | 📅 2026-10-19
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,611 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,613 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,556 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,195 | 🐛 49 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,473 | 🐛 46 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,982 | 🐛 62 | 🌐 C# | 📅 2026-10-13
-* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,051 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,558 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,197 | 🐛 49 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,475 | 🐛 46 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,983 | 🐛 62 | 🌐 C# | 📅 2026-10-13
+* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,052 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 988 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 637 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 69 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
@@ -176,7 +176,7 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,080 | 🐛 414 | 🌐 C | 📅 2026-10-05
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,085 | 🐛 414 | 🌐 C | 📅 2026-10-05
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
@@ -786,7 +786,7 @@ REG ADD HKLM\System\CurrentControlSet\Control\Lsa\ /v DsrmAdminLogonBehavior /t 
 
 # ACE Format
 
-* [RACEToolkit](https://github.com/samratashok/RACE) ⭐ 243 | 🐛 2 | 🌐 PowerShell | 📅 2023-05-05
+* [RACEToolkit](https://github.com/samratashok/RACE) ⭐ 245 | 🐛 2 | 🌐 PowerShell | 📅 2023-05-05
 * ace\_type;ace\_flags;rights;object\_guid;inherit\_object\_guid;account\_sid
 
 # Protection
@@ -1020,7 +1020,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 * [LOLBAS - Living Off The Land Binaries And Scripts](https://github.com/api0cradle/LOLBAS) ⚠️ Archived
 
-* <https://github.com/0xdea/tactical-exploitation> ⭐ 865 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+* <https://github.com/0xdea/tactical-exploitation> ⭐ 866 | 🐛 1 | 🌐 Python | 📅 2026-08-02
 
 ### Attack Kerberos
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

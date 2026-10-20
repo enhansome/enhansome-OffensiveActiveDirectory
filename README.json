@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21920,
+            "stars": 21921,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-19T15:33:53Z",
-            "open_issues": 326,
+            "open_issues": 327,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16182,
+            "stars": 16189,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13072,
+            "stars": 13074,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10613,
+            "stars": 10616,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9161,
+            "stars": 9162,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5558,
+            "stars": 5561,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 49,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5197,
+            "stars": 5198,
             "topics": [
               "kerberos"
             ]
@@ -199,10 +199,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-08-20T10:56:06Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3475,
+            "stars": 3476,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26085,
+                    "stars": 26086,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -562,7 +562,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T20:37:41.047Z",
+    "last_updated": "2026-10-20T19:21:35.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

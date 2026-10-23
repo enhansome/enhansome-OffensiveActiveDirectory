@@ -19,7 +19,7 @@
             "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21922,
+            "stars": 21924,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T12:57:11Z",
-            "open_issues": 328,
+            "open_issues": 329,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16191,
+            "stars": 16194,
             "topics": [
               "dcerpc",
               "dcom",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10623,
+            "stars": 10622,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5564,
+            "stars": 5563,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5202,
+            "stars": 5201,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 47,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3479,
+            "stars": 3478,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -223,7 +223,7 @@
             "open_issues": 62,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2983,
+            "stars": 2982,
             "topics": [
               "active-directory",
               "ciso",
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1053,
+            "stars": 1052,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 989,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26094,
+                    "stars": 26096,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -470,34 +470,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Automate BloodHound",
-              "description": "mdsecactivebreach/ANGRYPUPPY",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Bloodhound Attack Path Automation in CobaltStrike",
-                "homepage": null,
-                "id": 99271850,
-                "language": "PowerShell",
-                "license": "NOASSERTION",
-                "last_commit": "2017-07-31T13:41:39Z",
-                "open_issues": 0,
-                "owner": "mdsecactivebreach",
-                "repo": "ANGRYPUPPY",
-                "stars": 29,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:02:00.658Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "BloodHound"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "LOLBAS - Living Off The Land Binaries And Scripts",
               "description": "api0cradle/LOLBAS",
               "children": [],
@@ -512,7 +484,7 @@
                 "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1616,
+                "stars": 1615,
                 "topics": [
                   "blueteam",
                   "dfir",
@@ -562,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:16:23.719Z",
+    "last_updated": "2026-10-23T19:19:56.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

@@ -112,16 +112,16 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,929 | 🐛 197 | 🌐 C | 📅 2026-10-26
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,195 | 🐛 329 | 🌐 Python | 📅 2026-10-26
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,932 | 🐛 197 | 🌐 C | 📅 2026-10-26
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,200 | 🐛 331 | 🌐 Python | 📅 2026-10-26
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,623 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,624 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,566 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,202 | 🐛 50 | 🌐 C# | 📅 2026-05-21
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,569 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,201 | 🐛 50 | 🌐 C# | 📅 2026-05-21
 * [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,481 | 🐛 47 | 🌐 Go | 📅 2024-08-20
 * [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,986 | 🐛 62 | 🌐 C# | 📅 2026-10-13
-* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,052 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
+* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,053 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 988 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 636 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 69 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._

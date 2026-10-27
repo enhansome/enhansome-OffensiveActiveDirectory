@@ -19,7 +19,7 @@
             "open_issues": 197,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21929,
+            "stars": 21932,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-26T19:06:01Z",
-            "open_issues": 329,
+            "open_issues": 331,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16195,
+            "stars": 16200,
             "topics": [
               "dcerpc",
               "dcom",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10623,
+            "stars": 10624,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9165,
+            "stars": 9167,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5566,
+            "stars": 5569,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5202,
+            "stars": 5201,
             "topics": [
               "kerberos"
             ]
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1052,
+            "stars": 1053,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:35:13.612Z",
+    "last_updated": "2026-10-27T20:07:38.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

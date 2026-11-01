@@ -112,15 +112,15 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,940 | 🐛 197 | 🌐 C | 📅 2026-10-30
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,211 | 🐛 325 | 🌐 Python | 📅 2026-10-30
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,942 | 🐛 198 | 🌐 C | 📅 2026-10-30
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,215 | 🐛 325 | 🌐 Python | 📅 2026-10-30
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,623 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,578 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,577 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
 * [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,201 | 🐛 50 | 🌐 C# | 📅 2026-05-21
 * [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,483 | 🐛 47 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,991 | 🐛 63 | 🌐 C# | 📅 2026-10-29
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,992 | 🐛 63 | 🌐 C# | 📅 2026-10-29
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,055 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 990 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 636 | 🐛 0 | 📅 2022-03-25
@@ -1020,7 +1020,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 * [LOLBAS - Living Off The Land Binaries And Scripts](https://github.com/api0cradle/LOLBAS) ⚠️ Archived
 
-* <https://github.com/0xdea/tactical-exploitation> ⭐ 867 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+* <https://github.com/0xdea/tactical-exploitation> ⭐ 865 | 🐛 1 | 🌐 Python | 📅 2026-08-02
 
 ### Attack Kerberos
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

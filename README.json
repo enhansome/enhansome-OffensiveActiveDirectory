@@ -16,10 +16,10 @@
             "language": "C",
             "license": null,
             "last_commit": "2026-10-30T08:51:45Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21940,
+            "stars": 21942,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 325,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16211,
+            "stars": 16215,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13068,
+            "stars": 13067,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9169,
+            "stars": 9170,
             "topics": [
               "active-directory",
               "networks",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5578,
+            "stars": 5577,
             "topics": [
               "docker",
               "evil-winrm",
@@ -223,7 +223,7 @@
             "open_issues": 63,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2991,
+            "stars": 2992,
             "topics": [
               "active-directory",
               "ciso",
@@ -513,7 +513,7 @@
                 "open_issues": 1,
                 "owner": "0xdea",
                 "repo": "tactical-exploitation",
-                "stars": 867,
+                "stars": 865,
                 "topics": [
                   "active-directory",
                   "brute-force",
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T19:22:18.428Z",
+    "last_updated": "2026-11-01T19:45:58.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

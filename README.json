@@ -19,7 +19,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21949,
+            "stars": 21950,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -36,11 +36,11 @@
             "id": 33997353,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T20:45:39Z",
-            "open_issues": 325,
+            "last_commit": "2026-11-03T15:28:55Z",
+            "open_issues": 327,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16220,
+            "stars": 16224,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13067,
+            "stars": 13068,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5202,
+            "stars": 5204,
             "topics": [
               "kerberos"
             ]
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26121,
+                    "stars": 26120,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:08:24.575Z",
+    "last_updated": "2026-11-03T21:05:25.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

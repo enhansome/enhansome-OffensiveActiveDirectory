@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T17:26:25Z",
-            "open_issues": 326,
+            "open_issues": 327,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16232,
+            "stars": 16235,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13068,
+            "stars": 13067,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5581,
+            "stars": 5582,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5207,
+            "stars": 5210,
             "topics": [
               "kerberos"
             ]
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1055,
+            "stars": 1054,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "l0ss",
             "repo": "Grouper2",
-            "stars": 636,
+            "stars": 635,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26124,
+                    "stars": 26125,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 10,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1184,
+                "stars": 1183,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:29:10.548Z",
+    "last_updated": "2026-11-06T20:56:27.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

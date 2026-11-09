@@ -112,15 +112,15 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,957 | 🐛 199 | 🌐 C | 📅 2026-10-30
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,241 | 🐛 328 | 🌐 Python | 📅 2026-11-04
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,961 | 🐛 199 | 🌐 C | 📅 2026-10-30
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,243 | 🐛 329 | 🌐 Python | 📅 2026-11-04
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,624 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,627 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,582 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,212 | 🐛 50 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,490 | 🐛 47 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,996 | 🐛 63 | 🌐 C# | 📅 2026-11-05
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,585 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,215 | 🐛 50 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,491 | 🐛 47 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 2,997 | 🐛 63 | 🌐 C# | 📅 2026-11-05
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,054 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 992 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 635 | 🐛 0 | 📅 2022-03-25
@@ -176,7 +176,7 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,130 | 🐛 414 | 🌐 C | 📅 2026-10-05
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,137 | 🐛 414 | 🌐 C | 📅 2026-10-05
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
@@ -842,7 +842,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 ## ACL Attacks
 
-* <http://github.com/canix1/ADACLScanner> ⭐ 1,183 | 🐛 10 | 🌐 PowerShell | 📅 2026-09-24
+* <http://github.com/canix1/ADACLScanner> ⭐ 1,184 | 🐛 10 | 🌐 PowerShell | 📅 2026-09-24
 
 * 4662 - An operation was performed on an object
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

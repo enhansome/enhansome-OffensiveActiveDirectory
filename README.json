@@ -19,7 +19,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21961,
+            "stars": 21966,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-04T17:26:25Z",
-            "open_issues": 329,
+            "open_issues": 328,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16243,
+            "stars": 16248,
             "topics": [
               "dcerpc",
               "dcom",
@@ -93,7 +93,7 @@
             "open_issues": 93,
             "owner": "SpecterOps",
             "repo": "BloodHound-Legacy",
-            "stars": 10627,
+            "stars": 10628,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -114,7 +114,7 @@
             "open_issues": 66,
             "owner": "byt3bl33d3r",
             "repo": "CrackMapExec",
-            "stars": 9170,
+            "stars": 9172,
             "topics": [
               "active-directory",
               "networks",
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5215,
+            "stars": 5217,
             "topics": [
               "kerberos"
             ]
@@ -223,7 +223,7 @@
             "open_issues": 63,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 2997,
+            "stars": 2998,
             "topics": [
               "active-directory",
               "ciso",
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1054,
+            "stars": 1055,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -351,7 +351,7 @@
                     "open_issues": 0,
                     "owner": "skorov",
                     "repo": "ridrelay",
-                    "stars": 400,
+                    "stars": 401,
                     "topics": [
                       "activedirectory",
                       "impacket",
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26137,
+                    "stars": 26139,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 10,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1184,
+                "stars": 1186,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -484,7 +484,7 @@
                 "open_issues": 0,
                 "owner": "api0cradle",
                 "repo": "LOLBAS",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": [
                   "blueteam",
                   "dfir",
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:48:07.304Z",
+    "last_updated": "2026-11-10T21:20:31.337Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

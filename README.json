@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-11T12:57:09Z",
-            "open_issues": 336,
+            "open_issues": 337,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16263,
+            "stars": 16264,
             "topics": [
               "dcerpc",
               "dcom",
@@ -220,10 +220,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-11-05T10:15:01Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 3002,
+            "stars": 3004,
             "topics": [
               "active-directory",
               "ciso",
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26147,
+                    "stars": 26152,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -450,7 +450,7 @@
                 "open_issues": 10,
                 "owner": "canix1",
                 "repo": "ADACLScanner",
-                "stars": 1186,
+                "stars": 1187,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T21:27:18.588Z",
+    "last_updated": "2026-11-14T19:57:51.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",

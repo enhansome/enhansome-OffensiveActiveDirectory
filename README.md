@@ -112,14 +112,14 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,974 | 🐛 199 | 🌐 C | 📅 2026-10-30
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,269 | 🐛 336 | 🌐 Python | 📅 2026-11-11
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,976 | 🐛 199 | 🌐 C | 📅 2026-10-30
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,274 | 🐛 335 | 🌐 Python | 📅 2026-11-16
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
 * [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,626 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
-* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,596 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,226 | 🐛 50 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,495 | 🐛 47 | 🌐 Go | 📅 2024-08-20
+* [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,597 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,228 | 🐛 50 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,496 | 🐛 47 | 🌐 Go | 📅 2024-08-20
 * [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 3,006 | 🐛 64 | 🌐 C# | 📅 2026-11-05
 * [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,057 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
 * [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 992 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
@@ -176,7 +176,7 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,155 | 🐛 414 | 🌐 C | 📅 2026-10-05
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,159 | 🐛 414 | 🌐 C | 📅 2026-10-05
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
@@ -1020,7 +1020,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 * [LOLBAS - Living Off The Land Binaries And Scripts](https://github.com/api0cradle/LOLBAS) ⚠️ Archived
 
-* <https://github.com/0xdea/tactical-exploitation> ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-08-02
+* <https://github.com/0xdea/tactical-exploitation> ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-11-16
 
 ### Attack Kerberos
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

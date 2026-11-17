@@ -19,7 +19,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21976,
+            "stars": 21978,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -37,10 +37,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-16T21:15:18Z",
-            "open_issues": 335,
+            "open_issues": 336,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16274,
+            "stars": 16277,
             "topics": [
               "dcerpc",
               "dcom",
@@ -142,7 +142,7 @@
             "open_issues": 0,
             "owner": "Hackplayers",
             "repo": "evil-winrm",
-            "stars": 5597,
+            "stars": 5601,
             "topics": [
               "docker",
               "evil-winrm",
@@ -179,7 +179,7 @@
             "open_issues": 50,
             "owner": "GhostPack",
             "repo": "Rubeus",
-            "stars": 5228,
+            "stars": 5229,
             "topics": [
               "kerberos"
             ]
@@ -202,7 +202,7 @@
             "open_issues": 47,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3496,
+            "stars": 3495,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1057,
+            "stars": 1056,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -278,7 +278,7 @@
             "open_issues": 14,
             "owner": "adrecon",
             "repo": "ADRecon",
-            "stars": 992,
+            "stars": 993,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 414,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26159,
+                    "stars": 26164,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:45:34.425Z",
+    "last_updated": "2026-11-17T22:58:31.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",
@@ -546,7 +546,7 @@
       "open_issues": 0,
       "owner": "thecybermafia",
       "repo": "OffensiveActiveDirectory",
-      "stars": 93,
+      "stars": 94,
       "topics": [
         "active-directory",
         "activedirectory",

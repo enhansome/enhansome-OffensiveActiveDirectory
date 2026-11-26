@@ -112,17 +112,17 @@ This document is designed to be a used in a red team assesment and contains comm
 
 # Tools
 
-* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,996 | 🐛 199 | 🌐 C | 📅 2026-10-30
-* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,316 | 🐛 321 | 🌐 Python | 📅 2026-11-25
+* [Mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,999 | 🐛 199 | 🌐 C | 📅 2026-10-30
+* [Impacket](https://github.com/SecureAuthCorp/impacket) ⭐ 16,325 | 🐛 323 | 🌐 Python | 📅 2026-11-26
 * [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) ⚠️ Archived
-* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,638 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
+* [Bloodhound](https://github.com/BloodHoundAD/BloodHound) ⭐ 10,640 | 🐛 93 | 🌐 PowerShell | 📅 2026-03-02
 * [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) ⚠️ Archived
 * [Evil-WinRM](https://github.com/Hackplayers/evil-winrm) ⭐ 5,612 | 🐛 0 | 🌐 Ruby | 📅 2026-10-16
-* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,246 | 🐛 51 | 🌐 C# | 📅 2026-05-21
-* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,503 | 🐛 47 | 🌐 Go | 📅 2024-08-20
-* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 3,009 | 🐛 62 | 🌐 C# | 📅 2026-11-05
-* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,056 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
-* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 997 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
+* [Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,247 | 🐛 51 | 🌐 C# | 📅 2026-05-21
+* [Kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,504 | 🐛 47 | 🌐 Go | 📅 2024-08-20
+* [PingCastle](https://github.com/vletoux/pingcastle) ⭐ 3,010 | 🐛 62 | 🌐 C# | 📅 2026-11-05
+* [ADModule - Nikhil Mittal](https://github.com/samratashok/ADModule) ⭐ 1,058 | 🐛 8 | 🌐 PowerShell | 📅 2019-10-03
+* [AD Recon](https://github.com/adrecon/ADRecon) ⭐ 998 | 🐛 14 | 🌐 PowerShell | 📅 2024-10-15
 * To audit GPO, use [Grouper2](https://github.com/l0ss/Grouper2) ⭐ 635 | 🐛 0 | 📅 2022-03-25
 * [NetCease](https://github.com/p0w3rsh3ll/NetCease) ⭐ 69 | 🐛 1 | 🌐 PowerShell | 📅 2021-06-09
 * [ADModule Microsoft Reference](https://docs.microsoft.com/en-us/powershell/module/addsadministration/)
@@ -176,7 +176,7 @@ Get-ADDomain -Identity security.local
 masscan --rate 100000 -e eth0 --ports&lt;port range&gt; --open-only &lt;SCAN RANGE&gt;
 ```
 
-* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,184 | 🐛 415 | 🌐 C | 📅 2026-10-05
+* Reference: <https://github.com/robertdavidgraham/masscan> ⭐ 26,186 | 🐛 415 | 🌐 C | 📅 2026-10-05
 
 * Common ports: 21, 22, 23, 25, 53, 80, 443, 445, 3389, etc
 
@@ -842,7 +842,7 @@ New-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Control\Lsa -Name RunAsPPL -Valu
 
 ## ACL Attacks
 
-* <http://github.com/canix1/ADACLScanner> ⭐ 1,188 | 🐛 10 | 🌐 PowerShell | 📅 2026-09-24
+* <http://github.com/canix1/ADACLScanner> ⭐ 1,189 | 🐛 10 | 🌐 PowerShell | 📅 2026-09-24
 
 * 4662 - An operation was performed on an object
 
@@ -1128,4 +1128,4 @@ gpresult \[/x\], \[/h\] &lt;FILENAME&gt;
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

@@ -19,7 +19,7 @@
             "open_issues": 199,
             "owner": "gentilkiwi",
             "repo": "mimikatz",
-            "stars": 21999,
+            "stars": 22001,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -40,7 +40,7 @@
             "open_issues": 323,
             "owner": "fortra",
             "repo": "impacket",
-            "stars": 16325,
+            "stars": 16329,
             "topics": [
               "dcerpc",
               "dcom",
@@ -72,7 +72,7 @@
             "open_issues": 102,
             "owner": "PowerShellMafia",
             "repo": "PowerSploit",
-            "stars": 13075,
+            "stars": 13074,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -202,7 +202,7 @@
             "open_issues": 47,
             "owner": "ropnop",
             "repo": "kerbrute",
-            "stars": 3504,
+            "stars": 3506,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -223,7 +223,7 @@
             "open_issues": 62,
             "owner": "netwrix",
             "repo": "pingcastle",
-            "stars": 3010,
+            "stars": 3011,
             "topics": [
               "active-directory",
               "ciso",
@@ -257,7 +257,7 @@
             "open_issues": 8,
             "owner": "samratashok",
             "repo": "ADModule",
-            "stars": 1058,
+            "stars": 1059,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -320,7 +320,7 @@
             "open_issues": 1,
             "owner": "p0w3rsh3ll",
             "repo": "NetCease",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "first_seen": "2026-08-29T00:02:00.658Z"
@@ -384,7 +384,7 @@
                     "open_issues": 415,
                     "owner": "robertdavidgraham",
                     "repo": "masscan",
-                    "stars": 26186,
+                    "stars": 26190,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:02:00.658Z"
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:54:35.690Z",
+    "last_updated": "2026-11-27T23:31:43.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A set of instructions, command and techniques that help during an Active Directory Assessment. ",
